@@ -1,19 +1,14 @@
-### Hi there 👋
+### 같이 성장하는 개발자      
+***
+저는 새로운 것을 배우길 좋아하고, 항상 최신 기술을 탐색하고 있습니다. 또한 팀워크를 중요하게 생각합니다.   
 
-<!--
-**lazerfit/lazerfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java 와 Spring , 자료구조, 알고리즘, OOP 등을 독학과 그룹스터디를 통해 학습하였습니다.   
 
-Here are some ideas to get you started:
+평소에 만들고 싶었던 것들을 만들며 새로운 가치를 창출해낼 수 있도록 꾸준히 노력중입니다.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+
 
 ### *SkillSets*   
 ***
