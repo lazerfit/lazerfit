@@ -6,6 +6,8 @@ Java 와 Spring , 자료구조, 알고리즘, OOP 등을 독학과 그룹스터�
 
 평소에 만들고 싶었던 것들을 스스로 만들어내며 새로운 가치를 창출해낼 수 있도록 꾸준히 노력중입니다.   
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazerfit&theme=noctis_minimus&show_icons=true)
+
 ***
 
 
