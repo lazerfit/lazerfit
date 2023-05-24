@@ -12,7 +12,7 @@ Java 와 Spring , 자료구조, 알고리즘, OOP 등을 독학과 그룹스터�
 
 
 
-### 🛠️ *Tech Stack* 🛠️   
+### 🛠️*Tech Stack*🛠️   
 ***
 ##### Backend   
 
@@ -22,3 +22,8 @@ Java 와 Spring , 자료구조, 알고리즘, OOP 등을 독학과 그룹스터�
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+***
+### 🎓*Education*🎓   
+***
+- 아시아경제 교육센터 핀테크 디지털 금융사이언티스트 양성과정 수료
+- 가톨릭대학교 국제관계학/경제학 졸업
