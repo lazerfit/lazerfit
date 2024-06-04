@@ -26,7 +26,7 @@ Java 와 Spring , vue.js, Nuxt, 자료구조, 알고리즘, OOP 등을 독학과
 
 ##### Front
 
-![Sass](https://img.shields.io/badge/sass-#CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ***
 ### 🎓*Education*🎓   
