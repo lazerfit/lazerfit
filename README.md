@@ -4,7 +4,7 @@
 
 모르는 것을 빠르게 질문하며 문제 해결에 집중합니다.   
 
-Java 와 Spring , vue.js, Nuxt, 자료구조, 알고리즘, OOP 등을 독학과 그룹스터디를 통해 학습하였습니다.   
+Java 와 Spring , vue.js, Nuxt.js, 자료구조, 알고리즘, OOP 등을 독학과 그룹스터디를 통해 학습하였습니다.   
 
 평소에 만들고 싶었던 것들을 스스로 만들어내며 새로운 가치를 창출해낼 수 있도록 꾸준히 노력중입니다.   
 
@@ -27,7 +27,10 @@ Java 와 Spring , vue.js, Nuxt, 자료구조, 알고리즘, OOP 등을 독학과
 ##### Front
 
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VUE.JS](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![NUXT.JS](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black)
 ***
 ### 🎓*Education*🎓   
 ***
