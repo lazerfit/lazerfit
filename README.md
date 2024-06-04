@@ -4,7 +4,7 @@
 
 모르는 것을 빠르게 질문하며 문제 해결에 집중합니다.   
 
-Java 와 Spring , 자료구조, 알고리즘, OOP 등을 독학과 그룹스터디를 통해 학습하였습니다.   
+Java 와 Spring , vue.js, Nuxt, 자료구조, 알고리즘, OOP 등을 독학과 그룹스터디를 통해 학습하였습니다.   
 
 평소에 만들고 싶었던 것들을 스스로 만들어내며 새로운 가치를 창출해낼 수 있도록 꾸준히 노력중입니다.   
 
@@ -16,13 +16,17 @@ Java 와 Spring , 자료구조, 알고리즘, OOP 등을 독학과 그룹스터�
 
 ### 🛠️*Tech Stack*🛠️   
 ***
-##### Backend   
+##### Server-side   
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+##### Front
+
+![Sass](https://img.shields.io/badge/sass-#CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ***
 ### 🎓*Education*🎓   
