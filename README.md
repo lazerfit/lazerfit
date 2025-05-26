@@ -33,7 +33,7 @@ Java 와 Spring , vue.js, Nuxt.js, 자료구조, 알고리즘, OOP 등을 독학
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![VUE.JS](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![NUXT.JS](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black)
-![REACT](https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![REACT.JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ***
 ### 🎓*Education*🎓   
 ***
